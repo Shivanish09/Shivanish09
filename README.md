@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Shivendra Patel 👋
 Computer Science & Engineering Undergraduate focused on systems programming, game development, and software architecture.
 
 ### 🚀 Current Work
