@@ -13,3 +13,13 @@ Computer Science & Engineering Undergraduate focused on systems programming, gam
 
 ---
 📫 Open for hackathons, technical discussions, and open-source collaboration.
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivanish09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivanishh09&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanish09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
