@@ -23,3 +23,16 @@ Computer Science & Engineering Undergraduate focused on systems programming, gam
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanish09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
+### 🌐 Connect With Me
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/shivendra-patel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <!-- Email -->
+  <a href="mailto:shivendrapatel2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
