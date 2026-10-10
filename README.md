@@ -27,7 +27,7 @@ Computer Science & Engineering Undergraduate focused on systems programming, gam
 
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/shivendra-patel" target="_blank">
+  <a href="https://linkedin.com/in/shivendra-patel-b60421438" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
